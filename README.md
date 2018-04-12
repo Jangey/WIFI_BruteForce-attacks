@@ -1,4 +1,4 @@
-# WIFI_BruteForce
+# WIFI_BruteForce-attacks
 
 Using java to create passcode dictionary.
 And use "aircrack" to brute force WIFI passcode.
